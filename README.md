@@ -8,3 +8,6 @@ In order to create start the project you should do the following steps:
 In order to run integration test run 
 
 yarn test
+
+# Deployment
+https://getir-test-vlad.herokuapp.com/
