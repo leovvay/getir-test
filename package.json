@@ -1,0 +1,31 @@
+{
+  "name": "getir-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/leovvay/getir-test.git"
+  },
+  "author": "Uladzislau Liavonchyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leovvay/getir-test/issues"
+  },
+  "homepage": "https://github.com/leovvay/getir-test#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.0.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "supertest": "^6.1.4"
+  }
+}
